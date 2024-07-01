@@ -25,7 +25,7 @@ Follow these instructions to set up and run the Contact Management System on you
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Mustafaahmed00/contact-management-system.git
+   git clone https://github.com/Mustafaahmed00/Contact-Management-System.git
    cd contact-management-system
 
 2. Open the project in VS Code:
